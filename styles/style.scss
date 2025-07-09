@@ -79,6 +79,7 @@ p {
 .a4-wrapper {
     width: 210mm;
     height: 297mm;
+    margin: 0 auto;
     @include flex-column();
 }
 
